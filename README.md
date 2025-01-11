@@ -143,7 +143,8 @@ anyway - de todos modos
 anywhere - en cualquier lugar  
 apparent - aparente  
 apparently - aparentemente  
-appear - aparecer  
+appear - aparecer
+appeared - apikra
 appearing - apareciendo  
 are - son  
 around - alrededor  
@@ -769,9 +770,7 @@ way - camino
 ways - caminos  
 we - nosotros  
 wear - llevar  
-wearing - llevando  
-week - semana  
-weeks - semanas  
+wearing - llevando    
 well - bien  
 went - fue  
 were - eran  
@@ -795,26 +794,17 @@ with - con
 within - dentro  
 without - sin  
 woman - mujer  
-women - mujeres  
-word - palabra  
-words - palabras  
+women - mujeres    
 work - trabajar  
 worked - trabajado  
 working - trabajando  
 works - trabaja  
 world - mundo  
-would - haría  
-write - escribir  
-writing - escribiendo  
-wrote - escribió  
-written - escrito  
-wrong - equivocado  
-year - año  
-years - años  
+would - haría    
+wrong - equivocado    
 yes - sí  
 yet - aún  
-you - tú  
-young - joven  
+you - tú    
 your - tu  
 yourself - tú mismo  
 </pre>
