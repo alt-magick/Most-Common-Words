@@ -107,13 +107,13 @@ and cultural nuances of the target language.
 Here is a list I created of the most common words translated into spanish:
 
 <pre>
-a - un/a  
-about - acerca de  
-above - sobre  
+a - un  
+about - sobre  
+above - por encima  
 actual - actual  
 actually - en realidad  
 after - después  
-again - otra vez  
+again - de nuevo  
 against - contra  
 ago - hace  
 agree - estar de acuerdo  
@@ -127,25 +127,25 @@ already - ya
 also - también  
 although - aunque  
 always - siempre  
-am - soy/estoy  
+am - soy  
 among - entre  
-an - un/a  
+an - un  
 and - y  
-another - otro/a  
-answer - respuesta  
-answered - respondido  
+another - otro  
+answer - responder  
+answered - respondió  
 answering - respondiendo  
 any - cualquiera  
 anymore - ya no  
-anyone - cualquiera  
+anyone - alguien  
 anything - cualquier cosa  
 anyway - de todos modos  
 anywhere - en cualquier lugar  
 apparent - aparente  
 apparently - aparentemente  
 appear - aparecer  
-are - son/están  
-area - área  
+appearing - apareciendo  
+are - son  
 around - alrededor  
 as - como  
 aside - a un lado  
@@ -158,11 +158,11 @@ awhile - un rato
 back - atrás  
 bad - malo  
 badly - mal  
-be - ser/estar  
+be - ser  
 became - se convirtió  
 because - porque  
 become - convertirse  
-been - sido/estado  
+been - sido  
 before - antes  
 began - comenzó  
 begin - comenzar  
@@ -183,7 +183,6 @@ bigger - más grande
 block - bloquear  
 blocked - bloqueado  
 both - ambos  
-break - romper  
 bring - traer  
 brought - traído  
 busy - ocupado  
@@ -200,7 +199,7 @@ care - cuidar
 cared - cuidado  
 careful - cuidadoso  
 carefully - cuidadosamente  
-caring - cuidando  
+caring - atento  
 caught - atrapado  
 certain - cierto  
 certainly - ciertamente  
@@ -216,7 +215,7 @@ chose - eligió
 chosen - elegido  
 clear - claro  
 clearly - claramente  
-close - cerrar  
+close - cerca  
 closed - cerrado  
 closely - de cerca  
 closer - más cerca  
@@ -224,8 +223,8 @@ come - venir
 comes - viene  
 coming - viniendo  
 common - común  
-complete - completar  
-contain - contener  
+complete - completo  
+completely - completamente  
 continue - continuar  
 continued - continuado  
 control - controlar  
@@ -246,6 +245,7 @@ depends - depende
 depending - dependiendo  
 despite - a pesar de  
 develop - desarrollar  
+developed - desarrollado  
 did - hizo  
 didn't - no hizo  
 different - diferente  
@@ -269,9 +269,9 @@ easier - más fácil
 easily - fácilmente  
 easy - fácil  
 effort - esfuerzo  
-either - tampoco/cualquiera  
-else - más  
-end - fin  
+either - cualquiera  
+else - otro  
+end - final  
 enough - suficiente  
 enter - entrar  
 entire - entero  
@@ -303,49 +303,51 @@ feel - sentir
 feeling - sentimiento  
 feelings - sentimientos  
 feels - siente  
-felt - sentido  
-few - pocos/as  
+felt - sintió  
+few - pocos  
 final - final  
 finally - finalmente  
 find - encontrar  
 fine - bien  
 finish - terminar  
 finished - terminado  
+finishing - terminando  
 first - primero  
 follow - seguir  
 followed - seguido  
 following - siguiendo  
 for - para  
 found - encontrado  
-from - desde  
+from - de  
 full - lleno  
 gave - dio  
 general - general  
 generally - generalmente  
-get - obtener  
-gets - obtiene  
-getting - obteniendo  
+get - conseguir  
+gets - consigue  
+getting - consiguiendo  
 give - dar  
 given - dado  
+giving - dando  
 go - ir  
 goes - va  
 going - yendo  
 gone - ido  
 good - bueno  
-got - consiguió  
-gotten - conseguido  
+got - obtuvo  
+gotten - obtenido  
 great - genial  
 guy - chico  
-had - tenía  
-hadn't - no tenía  
-half - mitad  
-happen - ocurrir  
+had - tuvo  
+hadn't - no tuvo  
+half - medio  
+happen - suceder  
 happened - ocurrió  
-happening - ocurriendo  
+happening - sucediendo  
 has - tiene  
 hasn't - no tiene  
 have - tener  
-haven't - no he/has  
+haven't - no tengo  
 having - teniendo  
 he - él  
 head - cabeza  
@@ -356,17 +358,17 @@ help - ayudar
 helped - ayudado  
 helping - ayudando  
 helps - ayuda  
-her - su/ella  
+her - su  
 here - aquí  
 him - él  
 himself - él mismo  
 his - su  
 hold - sostener  
 holding - sosteniendo  
-home - hogar  
+home - casa  
 hope - esperanza  
-hoped - esperó  
-hopes - esperanzas  
+hoped - esperado  
+hopes - espera  
 hoping - esperando  
 how - cómo  
 however - sin embargo  
@@ -386,10 +388,10 @@ included - incluido
 includes - incluye  
 including - incluyendo  
 instead - en lugar de  
-is - es/está  
+is - es  
 it - eso  
 its - su  
-itself - sí mismo  
+itself - en sí mismo  
 just - justo  
 keep - mantener  
 kept - mantenido  
@@ -403,34 +405,30 @@ last - último
 late - tarde  
 later - más tarde  
 least - menos  
-leave - salir  
-left - salió  
+leave - dejar  
+left - dejado  
 less - menos  
 let - dejar  
 lets - deja  
-letter - carta  
-life - vida  
 like - gustar  
-likely - probablemente  
-line - línea  
-list - lista  
+likely - probable  
 little - poco  
 live - vivir  
 lived - vivido  
 living - viviendo  
 long - largo  
 longer - más largo  
+longest - el más largo  
 look - mirar  
-looked - miró  
+looked - mirado  
 looking - mirando  
-looks - mira  
-lot - mucho  
+looks - parece  
+lot - montón  
 love - amor  
 loved - amado  
 loves - ama  
-loving - amando  
+loving - amoroso  
 lucky - afortunado  
-l - l  
 made - hecho  
 main - principal  
 make - hacer  
@@ -440,23 +438,21 @@ man - hombre
 many - muchos  
 may - puede  
 maybe - tal vez  
-me - mí  
+me - me  
 mean - significar  
 means - significa  
-meant - significó  
+meant - significaba  
 men - hombres  
 mention - mencionar  
 mentioned - mencionado  
 mentioning - mencionando  
 might - podría  
-mile - milla  
 mind - mente  
 mine - mío  
-miss - extrañar  
+miss - perder  
 moment - momento  
-money - dinero  
 more - más  
-most - la mayoría  
+most - más  
 move - mover  
 moved - movido  
 moving - moviendo  
@@ -465,7 +461,7 @@ must - debe
 my - mi  
 myself - yo mismo  
 name - nombre  
-named - llamado  
+named - nombrado  
 names - nombres  
 naming - nombrando  
 near - cerca  
@@ -474,7 +470,7 @@ need - necesitar
 needed - necesitado  
 needing - necesitando  
 needs - necesita  
-neither - ninguno  
+neither - ni  
 never - nunca  
 new - nuevo  
 next - siguiente  
@@ -492,7 +488,6 @@ noticing - notando
 now - ahora  
 number - número  
 numbers - números  
-o - o  
 obvious - obvio  
 obviously - obviamente  
 of - de  
@@ -519,7 +514,7 @@ others - otros
 our - nuestro  
 out - fuera  
 outside - afuera  
-over - encima  
+over - sobre  
 own - propio  
 pair - par  
 part - parte  
@@ -534,7 +529,7 @@ person - persona
 personal - personal  
 plan - plan  
 planned - planeado  
-planning - planificando  
+planning - planeando  
 play - jugar  
 played - jugado  
 playing - jugando  
@@ -544,7 +539,6 @@ points - puntos
 poor - pobre  
 possible - posible  
 possibly - posiblemente  
-power - poder  
 practice - práctica  
 prepare - preparar  
 prepared - preparado  
@@ -556,9 +550,6 @@ process - proceso
 provide - proporcionar  
 provided - proporcionado  
 providing - proporcionando  
-pull - tirar  
-pulled - tirado  
-pulling - tirando  
 purpose - propósito  
 put - poner  
 puts - pone  
@@ -569,7 +560,7 @@ quick - rápido
 quickly - rápidamente  
 quiet - tranquilo  
 quite - bastante  
-rather - bastante  
+rather - en lugar de  
 reach - alcanzar  
 reached - alcanzado  
 reaching - alcanzando  
@@ -585,11 +576,9 @@ recently - recientemente
 recognize - reconocer  
 recognized - reconocido  
 recognizing - reconociendo  
-red - rojo  
 remember - recordar  
 remembered - recordado  
 remembering - recordando  
-remembering - recordar  
 repeat - repetir  
 repeated - repetido  
 repeating - repitiendo  
@@ -598,11 +587,11 @@ rested - descansado
 resting - descansando  
 result - resultado  
 results - resultados  
-return - volver  
-returned - vuelto  
-returning - volviendo  
-right - derecho  
-room - habitación  
+return - regresar  
+returned - regresado  
+returning - regresando  
+right - correcto  
+room - cuarto  
 run - correr  
 ran - corrió  
 running - corriendo  
@@ -617,19 +606,19 @@ self - uno mismo
 send - enviar  
 sent - enviado  
 sense - sentido  
-sentences - oraciones  
 separate - separar  
 separated - separado  
 separating - separando  
-set - establecer  
-sets - establece  
-setting - estableciendo  
+set - poner  
+sets - pone  
+setting - poniendo  
 shall - deberá  
 she - ella  
 short - corto  
 shorter - más corto  
 shortest - el más corto  
 should - debería  
+shouldn't - no debería  
 show - mostrar  
 showed - mostró  
 showing - mostrando  
@@ -641,7 +630,7 @@ since - desde
 small - pequeño  
 smaller - más pequeño  
 smallest - el más pequeño  
-so - así  
+so - así que  
 some - algunos  
 somebody - alguien  
 someone - alguien  
@@ -653,19 +642,19 @@ special - especial
 specific - específico  
 specifically - específicamente  
 spent - gastado  
-start - comenzar  
-started - comenzado  
-starting - comenzando  
-starts - comienza  
+start - empezar  
+started - empezado  
+starting - empezando  
+starts - empieza  
 state - estado  
 stated - declarado  
 stating - declarando  
 stay - quedarse  
 stayed - quedado  
 staying - quedándose  
-still - todavía  
-stood - se paró  
-stop - detener  
+still - aún  
+stood - estuvo  
+stop - parar  
 stopped - detenido  
 stopping - deteniendo  
 strong - fuerte  
@@ -677,18 +666,14 @@ suggested - sugerido
 suggesting - sugiriendo  
 sure - seguro  
 surely - seguramente  
-system - sistema  
 take - tomar  
 taken - tomado  
 takes - toma  
 taking - tomando  
 talk - hablar  
-talked - habló  
+talked - hablado  
 talking - hablando  
 talks - habla  
-tall - alto  
-taller - más alto  
-tallest - el más alto  
 tell - decir  
 telling - diciendo  
 tells - dice  
@@ -716,7 +701,6 @@ those - esos
 though - aunque  
 thought - pensamiento  
 thoughts - pensamientos  
-three - tres  
 through - a través de  
 time - tiempo  
 times - tiempos  
@@ -833,5 +817,4 @@ you - tú
 young - joven  
 your - tu  
 yourself - tú mismo  
-
 </pre>
