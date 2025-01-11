@@ -34,9 +34,10 @@ anyway - de todos modos
 anywhere - en cualquier lugar  
 apparent - aparente  
 apparently - aparentemente  
-appear - aparecer  
-are - son/están  
-area - área  
+appear - aparecer 
+appearing
+appears
+are - son/están    
 around - alrededor  
 as - como  
 aside - a un lado  
@@ -70,11 +71,10 @@ better - mejor
 between - entre  
 beyond - más allá  
 big - grande  
-bigger - más grande  
+bigger - más grande
 block - bloquear  
 blocked - bloqueado  
-both - ambos  
-break - romper  
+both - ambos    
 bring - traer  
 brought - traído  
 busy - ocupado  
@@ -115,8 +115,8 @@ come - venir
 comes - viene  
 coming - viniendo  
 common - común  
-complete - completar  
-contain - contener  
+complete - completar
+completely  
 continue - continuar  
 continued - continuado  
 control - controlar  
@@ -136,7 +136,8 @@ depend - depender
 depends - depende  
 depending - dependiendo  
 despite - a pesar de  
-develop - desarrollar  
+develop - desarrollar
+developed
 did - hizo  
 didn't - no hizo  
 different - diferente  
@@ -201,7 +202,8 @@ finally - finalmente
 find - encontrar  
 fine - bien  
 finish - terminar  
-finished - terminado  
+finished - terminado
+finishing
 first - primero  
 follow - seguir  
 followed - seguido  
@@ -217,7 +219,8 @@ get - obtener
 gets - obtiene  
 getting - obteniendo  
 give - dar  
-given - dado  
+given - dado
+giving
 go - ir  
 goes - va  
 going - yendo  
@@ -298,19 +301,16 @@ leave - salir
 left - salió  
 less - menos  
 let - dejar  
-lets - deja  
-letter - carta  
-life - vida  
+lets - deja   
 like - gustar  
-likely - probablemente  
-line - línea  
-list - lista  
+likely - probablemente    
 little - poco  
 live - vivir  
 lived - vivido  
 living - viviendo  
 long - largo  
 longer - más largo  
+longest
 look - mirar  
 looked - miró  
 looking - mirando  
@@ -320,8 +320,7 @@ love - amor
 loved - amado  
 loves - ama  
 loving - amando  
-lucky - afortunado  
-l - l  
+lucky - afortunado 
 made - hecho  
 main - principal  
 make - hacer  
@@ -339,13 +338,11 @@ men - hombres
 mention - mencionar  
 mentioned - mencionado  
 mentioning - mencionando  
-might - podría  
-mile - milla  
+might - podría    
 mind - mente  
 mine - mío  
 miss - extrañar  
-moment - momento  
-money - dinero  
+moment - momento   
 more - más  
 most - la mayoría  
 move - mover  
@@ -382,8 +379,7 @@ noticed - notado
 noticing - notando  
 now - ahora  
 number - número  
-numbers - números  
-o - o  
+numbers - números   
 obvious - obvio  
 obviously - obviamente  
 of - de  
@@ -435,7 +431,6 @@ points - puntos
 poor - pobre  
 possible - posible  
 possibly - posiblemente  
-power - poder  
 practice - práctica  
 prepare - preparar  
 prepared - preparado  
@@ -446,10 +441,7 @@ problem - problema
 process - proceso  
 provide - proporcionar  
 provided - proporcionado  
-providing - proporcionando  
-pull - tirar  
-pulled - tirado  
-pulling - tirando  
+providing - proporcionando   
 purpose - propósito  
 put - poner  
 puts - pone  
@@ -475,11 +467,9 @@ recent - reciente
 recently - recientemente  
 recognize - reconocer  
 recognized - reconocido  
-recognizing - reconociendo  
-red - rojo  
+recognizing - reconociendo   
 remember - recordar  
-remembered - recordado  
-remembering - recordando  
+remembered - recordado  ²  
 remembering - recordar  
 repeat - repetir  
 repeated - repetido  
@@ -507,8 +497,7 @@ says - dice
 self - uno mismo  
 send - enviar  
 sent - enviado  
-sense - sentido  
-sentences - oraciones  
+sense - sentido    
 separate - separar  
 separated - separado  
 separating - separando  
@@ -520,7 +509,8 @@ she - ella
 short - corto  
 shorter - más corto  
 shortest - el más corto  
-should - debería  
+should - debería 
+shouldn't
 show - mostrar  
 showed - mostró  
 showing - mostrando  
@@ -567,8 +557,7 @@ suggest - sugerir
 suggested - sugerido  
 suggesting - sugiriendo  
 sure - seguro  
-surely - seguramente  
-system - sistema  
+surely - seguramente    
 take - tomar  
 taken - tomado  
 takes - toma  
@@ -576,10 +565,7 @@ taking - tomando
 talk - hablar  
 talked - habló  
 talking - hablando  
-talks - habla  
-tall - alto  
-taller - más alto  
-tallest - el más alto  
+talks - habla    
 tell - decir  
 telling - diciendo  
 tells - dice  
@@ -606,8 +592,7 @@ this - esto
 those - esos  
 though - aunque  
 thought - pensamiento  
-thoughts - pensamientos  
-three - tres  
+thoughts - pensamientos    
 through - a través de  
 time - tiempo  
 times - tiempos  
@@ -615,8 +600,7 @@ to - a
 together - juntos  
 told - dijo  
 too - también  
-took - tomó  
-top - cima  
+took - tomó   
 toward - hacia  
 towards - hacia  
 tried - intentó  
@@ -676,9 +660,7 @@ way - camino
 ways - caminos  
 we - nosotros  
 wear - llevar  
-wearing - llevando  
-week - semana  
-weeks - semanas  
+wearing - llevando    
 well - bien  
 went - fue  
 were - eran  
