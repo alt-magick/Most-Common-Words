@@ -180,6 +180,8 @@ before - antes
 began - comenzó
 begin - comenzar
 beginning - principio
+begun - comenzado
+being - siendo
 believe - creer
 believed - creído
 belief - creencia
@@ -245,7 +247,7 @@ common - común
 compare - comparar
 complete - completo
 completely - completamente
-consider - considerer
+consider - considerar
 continue - continuar
 continued - continuado
 control - controlar
@@ -555,7 +557,7 @@ passing - pasando
 past - pasado
 perhaps - quizás
 people - personas
-pick - elegir
+pick - escoger
 plan - plan
 planned - planeado
 planning - planeando
@@ -590,7 +592,7 @@ reached - alcanzado
 reaching - alcanzando
 ready - listo
 real - real
-realize - darse cuenta
+realize - dar cuenta
 really - realmente
 reason - razón
 recent - reciente
@@ -609,7 +611,7 @@ results - resultados
 return - devolver
 returned - devuelto
 returning - devolviendo
-right - correcto
+right - derecho
 risk - riesgo
 room - habitación
 run - correr
@@ -625,7 +627,7 @@ says - dice
 see - ver
 seek - buscar
 seem - parecer
-self - uno mismo
+self - mismo
 send - enviar
 sense - sentido
 separate - separar
@@ -633,14 +635,14 @@ separated - separado
 separating - separando
 serious - serio
 set - conjunto
-sets - establece
-setting - configurando
+sets - conjuntos
+setting - escenario
 several - varios
 shall - deber
 share - compartir
 she - ella
-should - debería
-shouldn't - no debería
+should - deberías
+shouldn't - no deberías
 show - mostrar
 showed - mostró
 showing - mostrando
@@ -660,7 +662,7 @@ something - algo
 sometimes - a veces
 somewhere - en algún lugar
 soon - pronto
-sort - clasificar
+sort - ordenar
 special - especial
 specific - específico
 specifically - específicamente
@@ -696,7 +698,7 @@ talking - hablando
 talks - habla
 tell - decir
 telling - diciendo
-tells - dice
+tells - cuenta
 tend - tender
 than - que
 thank - agradecer
@@ -707,8 +709,8 @@ that - eso
 the - el/la
 their - su (de ellos)
 them - ellos
-themselves - ellos mismos
-then - entonces
+themselves - a sí mismos
+then - luego
 there - allí
 these - estos
 they - ellos
@@ -718,7 +720,7 @@ think - pensar
 thinking - pensando
 thinks - piensa
 this - esto
-those - esos
+those - aquellos
 though - aunque
 thought - pensamiento
 thoughts - pensamientos
@@ -728,7 +730,7 @@ times - veces
 to - a
 together - juntos
 told - dijo
-too - demasiado
+too - también
 took - tomó
 toward - hacia
 towards - hacia
@@ -744,11 +746,11 @@ truth - verdad
 turn - girar
 turned - girado
 turning - girando
-turns - gira
+turns - giros
 under - debajo de
 understand - entender
 understood - entendido
-understanding - entendimiento
+understanding - entendiendo
 until - hasta
 up - arriba
 upon - sobre
@@ -758,7 +760,7 @@ used - usado
 uses - usa
 using - usando
 usual - usual
-usually - generalmente
+usually - normalmente
 value - valor
 various - varios
 very - muy
@@ -769,11 +771,11 @@ want - querer
 wanted - querido
 wanting - queriendo
 wants - quiere
-was - fue
+was - era
 watch - ver
 watched - visto
-watching - viendo
-way - camino
+watching - mirando
+way - manera
 ways - maneras
 we - nosotros
 well - bien
@@ -799,16 +801,16 @@ within - dentro
 without - sin
 woman - mujer
 women - mujeres
-wonder - maravilla
+wonder - preguntar
 work - trabajar
 worked - trabajado
 working - trabajando
-works - trabaja
+works - funciona
 would - haría
 wrong - equivocado
 yeah - sí
 yes - sí
-yet - aún
+yet - todavía
 you - tú
 your - tu
 yourself - a ti mismo
