@@ -119,7 +119,6 @@ affect - afectar
 after - después
 again - otra vez
 against - contra
-age - edad
 ago - hace
 agree - estar de acuerdo
 agreed - acordado
@@ -195,9 +194,6 @@ between - entre
 beyond - más allá
 big - grande
 bigger - más grande
-bit - poco
-block - bloque
-blocked - bloqueado
 both - ambos
 break - romper
 brief - breve
@@ -214,7 +210,7 @@ calling - llamando
 came - vino
 can - poder
 cannot - no puede
-cant - no puedo
+can't - no puedo
 care - cuidar
 cared - cuidado
 careful - cuidadoso
@@ -249,7 +245,7 @@ common - común
 compare - comparar
 complete - completo
 completely - completamente
-consider - considerar
+consider - considerer
 continue - continuar
 continued - continuado
 control - controlar
@@ -341,9 +337,6 @@ finish - terminar
 finished - terminado
 finishing - terminando
 first - primero
-follow - seguir
-followed - seguido
-following - siguiente
 for - para
 found - encontrado
 free - libre
@@ -391,6 +384,7 @@ helped - ayudado
 helping - ayudando
 helps - ayuda
 her - su (de ella)
+hers - su (de ella)
 here - aquí
 him - él
 his - su (de él)
@@ -537,9 +531,6 @@ once - una vez
 one - uno
 only - solo
 onto - sobre
-open - abrir
-opened - abierto
-opening - abriendo
 opinion - opinión
 or - o
 order - ordenar
@@ -568,9 +559,6 @@ pick - elegir
 plan - plan
 planned - planeado
 planning - planeando
-play - jugar
-played - jugado
-playing - jugando
 please - por favor
 point - punto
 points - puntos
@@ -613,10 +601,6 @@ recognizing - reconociendo
 remember - recordar
 remembered - recordado
 remembering - recordando
-remain - permanecer
-repeat - repetir
-repeated - repetido
-repeating - repitiendo
 rest - descansar
 rested - descansado
 resting - descansando
@@ -655,9 +639,6 @@ several - varios
 shall - deber
 share - compartir
 she - ella
-short - corto
-shorter - más corto
-shortest - más corto
 should - debería
 shouldn't - no debería
 show - mostrar
@@ -680,7 +661,6 @@ sometimes - a veces
 somewhere - en algún lugar
 soon - pronto
 sort - clasificar
-source - fuente
 special - especial
 specific - específico
 specifically - específicamente
@@ -689,9 +669,6 @@ start - comenzar
 started - comenzado
 starting - comenzando
 starts - comienza
-state - estado
-stated - declarado
-stating - declarando
 stay - quedarse
 stayed - quedado
 staying - quedándose
@@ -745,7 +722,6 @@ those - esos
 though - aunque
 thought - pensamiento
 thoughts - pensamientos
-thus - así
 through - a través de
 time - tiempo
 times - veces
@@ -754,8 +730,6 @@ together - juntos
 told - dijo
 too - demasiado
 took - tomó
-top - cima
-tough - difícil
 toward - hacia
 towards - hacia
 tried - intentado
@@ -771,7 +745,6 @@ turn - girar
 turned - girado
 turning - girando
 turns - gira
-two - dos
 under - debajo de
 understand - entender
 understood - entendido
@@ -789,20 +762,9 @@ usually - generalmente
 value - valor
 various - varios
 very - muy
-view - vista
-views - vistas
-visit - visitar
-visited - visitado
-visiting - visitando
-voice - voz
-voices - voces
 wait - esperar
 waited - esperado
 waiting - esperando
-walk - caminar
-walked - caminado
-walking - caminando
-walks - camina
 want - querer
 wanted - querido
 wanting - queriendo
@@ -814,8 +776,6 @@ watching - viendo
 way - camino
 ways - maneras
 we - nosotros
-wear - llevar
-wearing - usando
 well - bien
 went - fue
 were - eran
@@ -825,7 +785,6 @@ where - dónde
 whether - si
 which - cuál
 while - mientras
-white - blanco
 who - quién
 whole - entero
 whose - cuyo
@@ -845,11 +804,9 @@ work - trabajar
 worked - trabajado
 working - trabajando
 works - trabaja
-world - mundo
 would - haría
 wrong - equivocado
 yeah - sí
-year - año
 yes - sí
 yet - aún
 you - tú
