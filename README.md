@@ -107,8 +107,6 @@ and cultural nuances of the target language.
 Here is a list I created of the most common words translated into spanish:
 
 <pre>
-Here’s the list with the Spanish translations next to each English word:
-
 a - un/una
 about - sobre
 above - encima de
