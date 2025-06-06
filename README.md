@@ -73,21 +73,6 @@ conscientious civic participation, encompassing activities such
 as voting and comprehending the functioning of governmental
 institutions.
 
-Beyond its legal and civic dimensions, a proficient command of
-English holds pragmatic value in daily life. It facilitates clear
-and effective communication across diverse contexts, encompassing
-employment opportunities, access to essential services, and
-resolution of routine matters. Proficiency in English streamlines
-life in the United States, enhancing both practicality and quality
-of living.
-
-Moreover, the English language serves as a conduit to cultural
-integration, enabling immigrants to connect with American culture,
-partake in local traditions and events, and cultivate a deeper sense
-of belonging. It transcends mere linguistic utility, encompassing
-immersion in the broader community, comprehension of societal values,
-and assimilation into the cultural fabric of American society.
-
 The practice of translating common words while learning a new
 language serves as a valuable tool for both language novices and
 experts. Consider it a fundamental mechanism in the language
