@@ -1,34 +1,946 @@
 English,Spanish
-a,un / una
-about,sobre / acerca de
-above,encima de
+a,"un/una"
+about,"sobre/acerca de"
+above,"encima de"
 accept,aceptar
 accepted,aceptado
 accepting,aceptando
 accepts,acepta
 according,según
-across,a través de
+across,"a través de"
 act,actuar
 acted,actuó
 acting,actuando
-acts,actúa
+acts,"actos/actúa"
 actual,real
-actually,en realidad
-add,añadir
-added,añadido
-adding,añadiendo
-adds,añade
+actually,realmente
+add,"añadir/agregar"
+added,"añadido/agregado"
+adding,"añadiendo/agregando"
+adds,"añade/agrega"
 adjust,ajustar
 adjusted,ajustado
 adjusting,ajustando
 adjusts,ajusta
 affect,afectar
 affecting,afectando
-after,después de
-again,otra vez
+after,"después de"
+again,"de nuevo/otra vez"
 against,contra
 ago,hace
-agree,estar de acuerdo
+agree,"estar de acuerdo"
 agreed,acordado
 ahead,adelante
-yourself,tú mismo / usted mismo
+all,"todo/a/os/as"
+allow,permitir
+allowed,permitido
+allowing,permitiendo
+almost,casi
+alone,solo
+along,"a lo largo de"
+already,ya
+also,también
+although,aunque
+always,siempre
+am,"soy/estoy"
+among,entre
+amount,cantidad
+amounted,ascendió
+amounting,ascendiendo
+amounts,cantidades
+an,"un/una"
+and,y
+another,"otro/a"
+answer,"respuesta/responder"
+answered,respondió
+answering,respondiendo
+answers,"respuestas/responde"
+any,"algún/cualquier"
+anymore,"ya no"
+anyone,alguien
+anything,algo
+anyway,"de todos modos"
+anywhere,"en cualquier lugar"
+apart,aparte
+apparent,aparente
+apparently,aparentemente
+appear,aparecer
+appeared,apareció
+appearing,apareciendo
+appears,aparece
+approach,"acercarse/enfoque"
+approached,"se acercó"
+approaches,"se acerca/enfoques"
+approaching,acercándose
+approval,aprobación
+approve,aprobar
+approved,aprobado
+approves,aprueba
+approving,aprobando
+are,"son/están"
+around,alrededor
+as,como
+aside,"a un lado"
+ask,"preguntar/pedir"
+asked,"preguntó/pidió"
+asking,"preguntando/pidiendo"
+asks,"pregunta/pide"
+assume,asumir
+assumed,asumido
+assumes,asume
+assuming,asumiendo
+at,"en/a"
+aware,consciente
+away,lejos
+awful,horrible
+awhile,"un rato"
+back,"espalda/atrás/volver"
+bad,malo
+badly,mal
+basic,básico
+basically,básicamente
+be,"ser/estar"
+became,"se convirtió/llegó a ser"
+because,porque
+become,"convertirse/llegar a ser"
+becomes,"se convierte/llega a ser"
+becoming,convirtiéndose
+been,"sido/estado"
+before,"antes de"
+began,comenzó
+begin,"empezar/comenzar"
+beginning,comienzo
+begun,comenzado
+behind,detrás
+being,"siendo/estando"
+belief,creencia
+believe,creer
+believed,creído
+believes,cree
+believing,creyendo
+belong,pertenecer
+belonged,pertenecido
+belonging,pertenencia
+belongs,pertenece
+below,"debajo de"
+beside,"al lado de"
+besides,además
+best,mejor
+better,mejor
+between,entre
+beyond,"más allá"
+big,grande
+bigger,"más grande"
+biggest,"el más grande"
+both,ambos
+bought,comprado
+bring,traer
+brings,trae
+broke,"roto/rompió"
+broken,roto
+brought,traído
+build,construir
+building,"edificio/construyendo"
+built,construido
+but,"pero/sino"
+by,"por/a"
+call,llamar
+called,llamado
+calling,llamando
+calls,"llamadas/llama"
+came,vino
+can,poder
+can't,"no puedo"
+cannot,"no puede"
+care,"cuidado/cuidar"
+cared,"se preocupó"
+careful,cuidadoso
+carefully,cuidadosamente
+careless,descuidado
+cares,"se preocupa"
+caring,"cariñoso/cuidando"
+case,caso
+cause,"causa/causar"
+caused,causado
+causing,causando
+certain,"cierto/seguro"
+certainly,ciertamente
+chance,oportunidad
+change,"cambio/cambiar"
+changed,cambiado
+changes,"cambios/cambia"
+changing,cambiando
+check,"verificar/chequear"
+checked,"verificado/chequeado"
+checking,"verificando/chequeando"
+checks,"verifica/chequea"
+choice,elección
+choose,elegir
+chose,eligió
+chosen,elegido
+clear,claro
+clearly,claramente
+close,"cerrar/cerca"
+closed,cerrado
+closely,"de cerca"
+closer,"más cerca"
+come,venir
+comes,viene
+coming,viniendo
+common,común
+communicate,comunicar
+communicated,comunicado
+communicates,comunica
+communicating,comunicando
+compare,comparar
+compared,comparado
+compares,compara
+comparing,comparando
+complete,"completo/completar"
+completed,completado
+completely,completamente
+completes,completa
+completing,completando
+confirm,confirmar
+confirmed,confirmado
+confirming,confirmando
+confirms,confirma
+consider,considerar
+considered,considerado
+considering,considerando
+considers,considera
+control,"control/controlar"
+controlled,controlado
+controlling,controlando
+controls,"controles/controla"
+could,podría
+couldn't,"no podría"
+course,curso
+create,crear
+created,creado
+creates,crea
+creating,creando
+current,actual
+currently,actualmente
+decide,decidir
+decided,decidido
+decides,decide
+deciding,decidiendo
+decision,decisión
+depend,depender
+dependent,dependiente
+depending,dependiendo
+depends,depende
+despite,"a pesar de"
+develop,desarrollar
+developed,desarrollado
+developing,desarrollando
+develops,desarrolla
+did,hizo
+didn't,"no hizo"
+different,diferente
+differently,"de manera diferente"
+difficult,difícil
+do,hacer
+does,hace
+doesn't,"no hace"
+doing,haciendo
+don't,"no hacer"
+done,hecho
+doubt,"duda/dudar"
+doubted,dudado
+doubtful,dudoso
+doubtfully,dudosamente
+doubting,dudando
+down,abajo
+during,durante
+each,cada
+earlier,antes
+early,temprano
+easier,"más fácil"
+easily,fácilmente
+easy,fácil
+effect,efecto
+effected,efectuado
+effecting,efectuando
+effective,eficaz
+effects,efectos
+effort,esfuerzo
+either,o
+else,"más/otra cosa"
+end,"fin/terminar"
+enjoy,disfrutar
+enjoyed,disfrutado
+enjoying,disfrutando
+enjoys,disfruta
+enough,suficiente
+enter,entrar
+entire,entero
+entirely,enteramente
+equal,igual
+equaled,igualado
+equals,iguales
+especially,especialmente
+even,"incluso/par"
+evenly,uniformemente
+ever,"alguna vez"
+every,"cada/todo"
+everyone,todos
+everything,todo
+exact,exacto
+exactly,exactamente
+example,ejemplo
+except,excepto
+expect,esperar
+expected,esperado
+expecting,esperando
+explain,explicar
+explained,explicado
+explaining,explicando
+explanation,explicación
+extra,extra
+fail,fallar
+failed,fallado
+fails,falla
+failure,fracaso
+false,falso
+far,lejos
+farthest,"más lejos"
+fast,rápido
+faster,"más rápido"
+fastest,"más rápido"
+father,padre
+feel,sentir
+feeling,sentimiento
+feelings,sentimientos
+feels,siente
+felt,sentido
+few,pocos
+final,final
+finally,finalmente
+find,encontrar
+finds,encuentra
+finish,terminar
+finished,terminado
+finishing,terminando
+first,primero
+for,"para/por"
+found,encontrado
+free,"libre/gratis"
+freed,liberado
+freely,libremente
+from,"de/desde"
+full,lleno
+gave,dio
+general,general
+generally,generalmente
+get,"obtener/conseguir"
+gets,"obtiene/consigue"
+getting,"obteniendo/consiguiendo"
+girl,chica
+give,dar
+given,dado
+giving,dando
+go,ir
+goes,va
+going,yendo
+gone,ido
+good,bueno
+got,conseguido
+gotten,conseguido
+great,"genial/gran"
+greater,mayor
+greatest,"el más grande"
+greatly,grandemente
+guess,adivinar
+guessed,adivinado
+guy,tipo
+had,"había/tuvo"
+hadn't,"no había"
+half,mitad
+happen,suceder
+happened,sucedió
+happening,sucediendo
+happens,sucede
+hard,"duro/difícil"
+hardly,apenas
+has,"tiene/ha"
+hasn't,"no tiene/no ha"
+have,"tener/haber"
+haven't,"no tengo/no he"
+having,"teniendo/habiendo"
+he,"él"
+head,cabeza
+hear,escuchar
+heard,escuchado
+hearing,"audición/escuchando"
+held,sostenido
+help,"ayuda/ayudar"
+helped,ayudado
+helping,ayudando
+helps,ayuda
+her,"su/la/a ella"
+here,aquí
+hers,"suyo/a (de ella)"
+herself,"ella misma"
+him,"le/a él"
+himself,"él mismo"
+his,"su/suyo (de él)"
+hold,sostener
+holding,sosteniendo
+hope,"esperanza/esperar"
+hoped,esperado
+hopeful,esperanzado
+hopeless,"sin esperanza"
+hopes,"esperanzas/espera"
+hoping,esperando
+how,cómo
+however,"sin embargo"
+huge,enorme
+I,yo
+idea,idea
+ideal,ideal
+ideally,idealmente
+if,si
+imagine,imaginar
+imagined,imaginado
+imagining,imaginando
+immediate,inmediato
+immediately,inmediatamente
+important,importante
+impossible,imposible
+impossibly,imposiblemente
+improve,mejorar
+improved,mejorado
+improvement,mejora
+improves,mejora
+improving,mejorando
+in,en
+include,incluir
+included,incluido
+includes,incluye
+including,incluyendo
+instead,"en su lugar"
+interest,interés
+interested,interesado
+interesting,interesante
+into,"en/dentro de"
+is,"es/está"
+isn't,"no es/no está"
+it,"eso/ello"
+its,"su (de eso)"
+itself,"sí mismo"
+join,unirse
+joined,unido
+joining,uniendo
+just,"justo/solo"
+keep,mantener
+keeping,manteniendo
+kept,mantenido
+kind,"tipo/amable"
+knew,sabía
+know,"saber/conocer"
+knowing,"sabiendo/conociendo"
+known,"sabido/conocido"
+knows,"sabe/conoce"
+large,grande
+largest,"el más grande"
+last,"último/durar"
+lasted,duró
+lasting,duradero
+late,tarde
+lately,últimamente
+later,"más tarde"
+least,menos
+leave,"dejar/irse"
+leaves,"hojas/deja"
+leaving,"dejando/yendo"
+left,"izquierda/dejado"
+less,menos
+let,"dejar/permitir"
+lets,permite
+letting,permitiendo
+lie,"mentir/tumbarse"
+lied,mintió
+lies,"mentiras/miente"
+like,"como/gustar"
+liked,gustado
+likely,probable
+little,pequeño
+live,"vivir/en vivo"
+lived,vivido
+lives,"vidas/vive"
+living,viviendo
+long,largo
+longer,"más largo/más tiempo"
+longest,"el más largo"
+look,mirar
+looked,mirado
+looking,mirando
+looks,"miradas/mira"
+lot,"mucho/lote"
+lots,muchos
+love,"amor/amar"
+loved,amado
+loves,ama
+loving,"amoroso/amando"
+lying,"mintiendo/tumbado"
+made,"hecho/hizo"
+main,principal
+major,"mayor/importante"
+make,hacer
+makes,hace
+making,haciendo
+man,hombre
+manage,"gestionar/administrar"
+managed,"gestionado/administrado"
+manages,"gestiona/administra"
+managing,"gestionando/administrando"
+many,muchos
+matter,"asunto/importar"
+mattered,importó
+matters,"asuntos/importa"
+may,"puede/poder"
+maybe,"tal vez"
+me,"me/a mí"
+mean,significar
+means,"medios/significa"
+meant,significado
+meet,"reunirse/conocer"
+mentioned,mencionado
+mentioning,mencionando
+might,podría
+mind,"mente/importar"
+minds,mentes
+mine,"mío/a"
+miss,"perder/extrañar"
+missed,"perdido/extrañado"
+misses,"pierde/extraña"
+missing,"perdiendo/ausente"
+moment,momento
+moments,momentos
+more,más
+most,"la mayoría/más"
+mostly,principalmente
+move,mover
+moved,movido
+moves,mueve
+moving,moviendo
+much,mucho
+must,deber
+my,mi
+myself,"yo mismo/a"
+name,"nombre/nombrar"
+named,nombrado
+names,nombres
+naming,nombrando
+near,cerca
+nearly,casi
+necessarily,necesariamente
+necessary,necesario
+need,necesitar
+needed,necesitado
+needing,necesitando
+needs,"necesidades/necesita"
+neither,ni
+never,nunca
+new,nuevo
+next,siguiente
+nice,agradable
+no,no
+nobody,nadie
+none,ninguno
+nor,ni
+normal,normal
+normally,normalmente
+not,no
+nothing,nada
+notice,"aviso/notar"
+noticeable,notable
+noticed,notado
+notices,"avisos/nota"
+noticing,notando
+now,ahora
+nowhere,"en ninguna parte"
+obvious,obvio
+obviously,obviamente
+occur,ocurrir
+occurred,ocurrió
+occurring,ocurriendo
+occurs,ocurre
+of,de
+off,"apagado/fuera"
+offer,ofrecer
+often,"a menudo"
+oh,oh
+ok,"ok/de acuerdo"
+on,en
+once,"una vez"
+one,"uno/una"
+only,"solo/solamente"
+onto,sobre
+opinion,opinión
+opinionated,dogmático
+opinions,opiniones
+or,o
+original,original
+originally,originalmente
+other,otro
+others,otros
+otherwise,"de lo contrario"
+our,"nuestro/a"
+out,fuera
+over,"sobre/terminado"
+overcome,superar
+overly,excesivamente
+own,"propio/poseer"
+owned,poseído
+owning,poseyendo
+owns,posee
+paced,"a un ritmo"
+pair,par
+part,parte
+parted,dividido
+partial,parcial
+partially,parcialmente
+particular,particular
+particularly,particularmente
+partly,parcialmente
+parts,partes
+pass,pasar
+passed,"pasado/aprobado"
+passes,"pasa/pasa"
+passing,pasando
+past,pasado
+people,gente
+perhaps,quizás
+person,persona
+pick,"elegir/recoger"
+picked,"elegido/recogido"
+picking,"eligiendo/recogiendo"
+picks,"elige/recoge"
+place,"lugar/colocar"
+places,"lugares/coloca"
+placing,colocando
+plan,"plan/planear"
+planned,planeado
+planning,planeando
+plans,"planes/planea"
+please,"por favor/complacer"
+pleased,satisfecho
+pleasing,"agradable/satisfaciendo"
+poor,pobre
+poorly,mal
+possible,posible
+possibly,posiblemente
+prepare,preparar
+prepared,preparado
+prepares,prepara
+preparing,preparando
+present,"presente/presentar"
+presenting,presentando
+presently,actualmente
+probably,probablemente
+problem,problema
+problems,problemas
+purpose,propósito
+purposes,propósitos
+put,poner
+puts,pone
+putting,poniendo
+question,pregunta
+questions,preguntas
+quick,rápido
+quickly,rápidamente
+quiet,tranquilo
+quietly,"en voz baja"
+quit,"dejar/abandonar"
+quite,bastante
+quits,deja
+quitting,abandonando
+raise,levantar
+raises,levanta
+raising,levantando
+rather,"más bien"
+reach,alcanzar
+reached,alcanzado
+reaches,alcanza
+reaching,alcanzando
+ready,listo
+real,real
+realize,"darse cuenta"
+really,realmente
+reason,razón
+recent,reciente
+recently,recientemente
+remain,permanecer
+remained,permanecido
+remaining,restante
+remains,"restos/permanece"
+remove,eliminar
+removed,eliminado
+removes,elimina
+removing,eliminando
+repeat,repetir
+repeated,repetido
+repeating,repitiendo
+repeats,repite
+require,requerir
+required,requerido
+requiring,requiriendo
+respond,responder
+responded,respondido
+responding,respondiendo
+responds,responde
+result,resultado
+resulted,resultado
+resulting,resultante
+results,resultados
+return,"volver/regresar"
+returned,regresado
+returning,regresando
+right,"derecho/correcto"
+said,"dicho/dijo"
+same,mismo
+saw,"vio/sierra"
+say,decir
+saying,diciendo
+says,dice
+see,ver
+seek,buscar
+seem,parecer
+seemed,pareció
+seeming,aparente
+seems,parece
+seen,visto
+self,"yo/sí mismo"
+send,enviar
+sending,enviando
+sense,sentido
+sent,enviado
+serious,serio
+seriously,seriamente
+set,"conjunto/establecer"
+sets,establece
+setting,"configuración/estableciendo"
+several,varios
+shall,deberá
+share,compartir
+shared,compartido
+sharing,compartiendo
+she,ella
+should,debería
+shouldn't,"no debería"
+show,mostrar
+showed,mostrado
+showing,mostrando
+shows,"espectáculos/muestra"
+side,lado
+simple,simple
+simpler,"más simple"
+simply,simplemente
+since,desde
+small,pequeño
+smaller,"más pequeño"
+smallest,"el más pequeño"
+so,"tan/así que"
+some,algunos
+somebody,alguien
+someone,alguien
+something,algo
+sometimes,"a veces"
+somewhat,algo
+somewhere,"en algún lugar"
+soon,pronto
+sooner,"más pronto"
+sort,"tipo/ordenar"
+sorted,ordenado
+sorting,ordenando
+sorts,"tipos/ordena"
+special,especial
+specific,específico
+specifically,específicamente
+spent,"gastado/pasado"
+start,"empezar/inicio"
+started,empezado
+starting,empezando
+starts,empieza
+still,"todavía/quieto"
+stood,"se puso de pie"
+stop,"parar/detener"
+stopped,"parado/detenido"
+stopping,deteniendo
+stops,"paradas/detiene"
+strong,fuerte
+stronger,"más fuerte"
+strongest,"el más fuerte"
+succeed,"tener éxito"
+succeeded,"tenido éxito"
+succeeding,"teniendo éxito"
+succeeds,"tiene éxito"
+success,éxito
+successful,exitoso
+such,tal
+sudden,repentino
+suddenly,"de repente"
+suggest,sugerir
+suggested,sugerido
+suggesting,sugiriendo
+suggests,sugiere
+suppose,suponer
+supposed,supuesto
+supposes,supone
+supposing,suponiendo
+sure,seguro
+surely,seguramente
+take,tomar
+taken,tomado
+takes,toma
+taking,tomando
+talk,hablar
+talked,hablado
+talking,hablando
+talks,"charlas/habla"
+tell,"contar/decir"
+telling,"contando/diciendo"
+tells,"cuenta/dice"
+tend,tender
+tending,tendiendo
+than,que
+thank,"gracias/agradecer"
+thanked,agradecido
+thanking,agradeciendo
+thanks,gracias
+that,"que/eso"
+that's,"eso es"
+the,"el/la/los/las"
+their,"su (de ellos)"
+them,"les/a ellos"
+themselves,"ellos mismos"
+then,entonces
+there,"allí/hay"
+these,"estos/as"
+they,"ellos/ellas"
+they'll,"ellos lo harán"
+they're,"ellos son/están"
+thing,cosa
+things,cosas
+think,pensar
+thinking,pensando
+thinks,piensa
+this,"este/esta"
+those,"aquellos/as"
+though,aunque
+thought,"pensamiento/pensó"
+thoughts,pensamientos
+through,"a través de"
+to,a
+together,juntos
+told,"dicho/contado"
+too,"también/demasiado"
+took,tomó
+toward,hacia
+towards,hacia
+tried,intentado
+tries,intenta
+trouble,problema
+true,verdadero
+truly,verdaderamente
+try,intentar
+trying,intentando
+turn,"girar/turno"
+turned,girado
+turning,girando
+turns,"giros/gira"
+unable,incapaz
+understand,entender
+understanding,entendimiento
+understands,entiende
+understood,entendido
+unless,"a menos que"
+until,hasta
+up,arriba
+upon,sobre
+us,"nos/a nosotros"
+use,"uso/usar"
+used,usado
+useful,útil
+useless,inútil
+uses,"usos/usa"
+using,usando
+usual,usual
+usually,usualmente
+value,valor
+valued,valorado
+various,varios
+very,muy
+visit,"visita/visitar"
+visited,visitado
+visiting,visitando
+visits,"visitas/visita"
+wait,esperar
+waited,esperado
+waiting,esperando
+waits,"esperas/espera"
+want,querer
+wanted,querido
+wanting,queriendo
+wants,"deseos/quiere"
+was,"era/estaba"
+wasn't,"no era/no estaba"
+way,"camino/manera"
+ways,maneras
+we,"nosotros/as"
+well,bien
+went,fue
+were,"eran/estaban"
+weren't,"no eran/no estaban"
+what,qué
+whatever,"lo que sea"
+whatsoever,"en absoluto"
+when,cuando
+where,dónde
+wherever,dondequiera
+whether,si
+which,cuál
+while,mientras
+who,quién
+whoever,quienquiera
+whole,entero
+whom,"a quien"
+whose,"cuyo/a"
+why,"por qué"
+will,"voluntad/va a"
+wish,"deseo/desear"
+wished,deseado
+wishes,"deseos/desea"
+wishing,deseando
+with,con
+within,"dentro de"
+without,sin
+woman,mujer
+women,mujeres
+work,"trabajo/trabajar"
+worked,trabajado
+working,trabajando
+works,"obras/trabaja"
+worried,preocupado
+worries,preocupaciones
+worry,preocuparse
+worrying,preocupante
+worst,peor
+worth,valor
+would,haría
+wouldn't,"no haría"
+wrong,"mal/equivocado"
+yeah,sí
+yes,sí
+yet,"todavía/aún"
+you,"tú/ustedes/vosotros"
+you'd,"tú habrías/tú querías"
+you'll,"tú lo harás"
+you're,"tú eres/tú estás"
+you've,"tú tienes/tú has"
+your,"tu/su"
+yours,"tuyo/suyo"
+yourself,"tú mismo"
