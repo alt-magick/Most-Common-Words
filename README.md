@@ -1,5 +1,5 @@
 # Most Common Words 
-A word frequency list
+A Word Frequency List
 
 Learn The Most Common Words In Spanish &amp; English
 
